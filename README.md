@@ -9,4 +9,4 @@ Adilia Getia Haqia Ilmi
 
 Implementasi penghitungan nilai integral fungsi fungsi f(x) = 4 / (1 + x^2) dari 0 sampai 1 secara numerik dengan metode integrasi Reimann.
 
-Menggunakan variasi nilai N = 10, 100, 1000, 10000 dan nilai referensi pi yang digunakan adalah 3.14159265358979323846
+Menggunakan variasi nilai N = 10, 100, 1000, 10000 dan nilai referensi pi  3.14159265358979323846
